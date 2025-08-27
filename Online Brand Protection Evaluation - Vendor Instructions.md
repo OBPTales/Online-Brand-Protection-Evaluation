@@ -2,19 +2,7 @@
 
 ## *Request For Proposal and Procurement Guide*
 
-## 
 
-## 
-
-## 
-
-## 
-
-## 
-
-### 
-
-### 
 
 ### Acknowledgment
 
@@ -58,7 +46,6 @@ Your proposal should address the full scope of services detailed in the "Terms o
 
 * Documentation and training
 
-## 
 
 ## Instructions
 
