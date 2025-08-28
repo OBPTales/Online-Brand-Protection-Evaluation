@@ -34,61 +34,36 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **Table of Contents**
 
-[Acknowledgment](#acknowledgment)
+ Introduction to **ORGANIZATION NAME** and Background
+ 
+2. Mission Statement and Objectives  
+   - 2.1 Business Objectives  
+   - 2.2 Key Performance Indicators  
+   - 2.3 Critical Requirements
 
-[License](#license)
+3. Scope of Work  
+   - 3.1 Specific Services  
+   - 3.2 Requirements  
+     - 3.2.1 Overview  
+     - 3.2.2 Online Brand Protection Platform Functional Requirements  
+     - 3.2.3 Online Brand Protection Platform Non Functional Requirements  
+     - 3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding  
+     - 3.2.5 Data Protection Requirements  
+     - 3.2.6 Machine Learning and Artificial Intelligence  
+     - 3.2.7 Maintenance and Support Requirements  
+     - 3.2.8 Training and Documentation Requirements  
+   - 3.3 Deliverables and Timeline  
+   - 3.4 Logistics and Acceptance
 
-[1\. Introduction to \[\*\*ORGANIZATION NAME\] and Background](#1.-introduction-to-[**organization-name]-and-background)
-
-[2\. Mission Statement and Objectives](#2.-mission-statement-and-objectives)
-
-[2.1 Business Objectives](#2.1-business-objectives)
-
-[2.2 Key Performance Indicators](#2.2-key-performance-indicators)
-
-[2.3 Critical Requirements](#2.3-critical-requirements)
-
-[3 Scope of Work](#3-scope-of-work)
-
-[3.1 Specific Services](#3.1-specific-services)
-
-[3.2 Requirements](#3.2-requirements)
-
-[3.2.1 Overview](#3.2.1-overview)
-
-[3.2.2 Online Brand Protection Platform Functional Requirements](#3.2.2-online-brand-protection-platform-functional-requirements)
-
-[3.2.3 Online Brand Protection Platform Non Functional Requirements](#3.2.3-online-brand-protection-platform-non-functional-requirements)
-
-[3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding](#3.2.4-online-brand-protection-platform-set-up-a.k.a.-onboarding)
-
-[3.2.5 Data Protection Requirements](#3.2.5-data-protection-requirements)
-
-[3.2.6 Machine Learning and Artificial Intelligence](#3.2.6-machine-learning-and-artificial-intelligence)
-
-[3.2.7 Maintenance and Support Requirements](#3.2.7-maintenance-and-support-requirements)
-
-[3.2.8 Training and Documentation Requirements](#3.2.8-training-and-documentation-requirements)
-
-[3.3 Deliverables and Timeline](#3.3-deliverables-and-timeline)
-
-[3.4 Logistics and Acceptance](#3.4-logistics-and-acceptance)
-
-[4\. Project Management and Methodology](#4.-project-management-and-methodology)
-
-[4.1 Project Management](#4.1-project-management)
-
-[4.2 Reporting](#4.2-reporting)
-
-[4.3 Methodology](#4.3-methodology)
-
-[4.4 Acceptance](#4.4-acceptance)
-
-[5\. Requirements for vendor and personnel](#5.-requirements-for-vendor-and-personnel)
-
-[5.1 Vendor requirements](#5.1-vendor-requirements)
-
-[5.2 Vendor personnel requirements](#5.2-vendor-personnel-requirements)
+4. Project Management and Methodology  
+   - 4.1 Project Management  
+   - 4.2 Reporting  
+   - 4.3 Methodology  
+   - 4.4 Acceptance
+   
+5. Requirements for Vendor and Personnel  
+   - 5.1 Vendor Requirements  
+   - 5.2 Vendor Personnel Requirements  
 
 # 1\. Introduction to \[\*\*ORGANIZATION NAME\] and Background
 
