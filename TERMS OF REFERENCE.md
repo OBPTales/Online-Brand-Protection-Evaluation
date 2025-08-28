@@ -2,21 +2,9 @@
 
 ## *Request For Proposal and Procurement Guide*
 
-## 
 
-## 
 
-## 
-
-## 
-
-## 
-
-### 
-
-### 
-
-### Acknowledgment {#acknowledgment}
+### Acknowledgment
 
 This guide is an adaption of the Drupal Association Procurement Guide.
 
@@ -24,7 +12,7 @@ This guide is an adaption of the Drupal Association Procurement Guide.
 
 [https://www.drupal.org/association](https://www.drupal.org/association)
 
-### License {#license}
+### License
 
 Online Brand Protection Evaluation
 
@@ -46,69 +34,69 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **Table of Contents**
 
-[Acknowledgment	1](#acknowledgment)
+[Acknowledgment](#acknowledgment)
 
-[License	1](#license)
+[License](#license)
 
-[**1\. Introduction to \[\*\*ORGANIZATION NAME\] and Background	3**](#1.-introduction-to-[**organization-name]-and-background)
+[1\. Introduction to \[\*\*ORGANIZATION NAME\] and Background](#1.-introduction-to-[**organization-name]-and-background)
 
-[**2\. Mission Statement and Objectives	4**](#2.-mission-statement-and-objectives)
+[2\. Mission Statement and Objectives](#2.-mission-statement-and-objectives)
 
-[2.1 Business Objectives	4](#2.1-business-objectives)
+[2.1 Business Objectives](#2.1-business-objectives)
 
-[2.2 Key Performance Indicators	4](#2.2-key-performance-indicators)
+[2.2 Key Performance Indicators](#2.2-key-performance-indicators)
 
-[2.3 Critical Requirements	5](#2.3-critical-requirements)
+[2.3 Critical Requirements](#2.3-critical-requirements)
 
-[**3 Scope of Work	5**](#3-scope-of-work)
+[3 Scope of Work](#3-scope-of-work)
 
-[3.1 Specific Services	5](#3.1-specific-services)
+[3.1 Specific Services](#3.1-specific-services)
 
-[3.2 Requirements	5](#3.2-requirements)
+[3.2 Requirements](#3.2-requirements)
 
-[3.2.1 Overview	5](#3.2.1-overview)
+[3.2.1 Overview](#3.2.1-overview)
 
-[3.2.2 Online Brand Protection Platform Functional Requirements	6](#3.2.2-online-brand-protection-platform-functional-requirements)
+[3.2.2 Online Brand Protection Platform Functional Requirements](#3.2.2-online-brand-protection-platform-functional-requirements)
 
-[3.2.3 Online Brand Protection Platform Non Functional Requirements	11](#3.2.3-online-brand-protection-platform-non-functional-requirements)
+[3.2.3 Online Brand Protection Platform Non Functional Requirements](#3.2.3-online-brand-protection-platform-non-functional-requirements)
 
-[3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding	13](#3.2.4-online-brand-protection-platform-set-up-a.k.a.-onboarding)
+[3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding](#3.2.4-online-brand-protection-platform-set-up-a.k.a.-onboarding)
 
-[3.2.5 Data Protection Requirements	14](#3.2.5-data-protection-requirements)
+[3.2.5 Data Protection Requirements](#3.2.5-data-protection-requirements)
 
-[3.2.6 Machine Learning and Artificial Intelligence	14](#3.2.6-machine-learning-and-artificial-intelligence)
+[3.2.6 Machine Learning and Artificial Intelligence](#3.2.6-machine-learning-and-artificial-intelligence)
 
-[3.2.7 Maintenance and Support Requirements	15](#3.2.7-maintenance-and-support-requirements)
+[3.2.7 Maintenance and Support Requirements](#3.2.7-maintenance-and-support-requirements)
 
-[3.2.8 Training and Documentation Requirements	16](#3.2.8-training-and-documentation-requirements)
+[3.2.8 Training and Documentation Requirements](#3.2.8-training-and-documentation-requirements)
 
-[3.3 Deliverables and Timeline	17](#3.3-deliverables-and-timeline)
+[3.3 Deliverables and Timeline](#3.3-deliverables-and-timeline)
 
-[3.4 Logistics and Acceptance	17](#3.4-logistics-and-acceptance)
+[3.4 Logistics and Acceptance](#3.4-logistics-and-acceptance)
 
-[**4\. Project Management and Methodology	17**](#4.-project-management-and-methodology)
+[4\. Project Management and Methodology](#4.-project-management-and-methodology)
 
-[4.1 Project Management	17](#4.1-project-management)
+[4.1 Project Management](#4.1-project-management)
 
-[4.2 Reporting	18](#4.2-reporting)
+[4.2 Reporting](#4.2-reporting)
 
-[4.3 Methodology	18](#4.3-methodology)
+[4.3 Methodology](#4.3-methodology)
 
-[4.4 Acceptance	18](#4.4-acceptance)
+[4.4 Acceptance](#4.4-acceptance)
 
-[**5\. Requirements for vendor and personnel	18**](#5.-requirements-for-vendor-and-personnel)
+[5\. Requirements for vendor and personnel](#5.-requirements-for-vendor-and-personnel)
 
-[5.1 Vendor requirements	18](#5.1-vendor-requirements)
+[5.1 Vendor requirements](#5.1-vendor-requirements)
 
-[5.2 Vendor personnel requirements	18](#5.2-vendor-personnel-requirements)
+[5.2 Vendor personnel requirements](#5.2-vendor-personnel-requirements)
 
-# 1\. Introduction to \[\*\*ORGANIZATION NAME\] and Background {#1.-introduction-to-[**organization-name]-and-background}
+# 1\. Introduction to \[\*\*ORGANIZATION NAME\] and Background
 
 \[\*\*Give an overview of your organization and market to give potential vendors the information they need to assess your project in the context of industry and goals.\]
 
-# 2\. Mission Statement and Objectives {#2.-mission-statement-and-objectives}
+# 2\. Mission Statement and Objectives
 
-## 2.1 Business Objectives {#2.1-business-objectives}
+## 2.1 Business Objectives
 
 \[\*\*ORGANIZATION NAME\] seeks innovative and capable online brand protection service providers to protect its intellectual property rights on the internet. The project will help the organization achieve the following business goals: 
 
@@ -122,7 +110,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Examples: automating 80% of enforcements to reduce manual review; remove most prominent infringement on social media to drive traffic to authorized social media handles; improve early detection to reduce customer complaints, etc.
 
-## 2.2 Key Performance Indicators {#2.2-key-performance-indicators}
+## 2.2 Key Performance Indicators
 
 \[\*\*ORGANIZATION NAME\] requires that the vendor defines metrics to measure its success against the key assumptions it has to develop within the Technical Proposal.
 
@@ -136,7 +124,7 @@ Examples: automating 80% of enforcements to reduce manual review; remove most pr
 
 Examples: Monitoring assumes that target markets are covered by the provider’s current web, marketplace, and social media data sources. Takedown actions assume that the vendor has capabilities in obtaining the removal of infringing content. Analysis assumes continuous access to marketplaces, social platforms, and domain registration databases via APIs or scraping permitted by platform policies. Effectiveness assumes the vendor will review infringing content and start enforcement actions (like takedowns) within X business days.
 
-## 2.3 Critical Requirements  {#2.3-critical-requirements}
+## 2.3 Critical Requirements
 
 \[\*\*ORGANIZATION NAME\] requires that vendor’s solution has the following:
 
@@ -152,9 +140,9 @@ Examples: Monitoring assumes that target markets are covered by the provider’s
 
 * \[\*\*Must Have 5\]
 
-# 3 Scope of Work {#3-scope-of-work}
+# 3 Scope of Work
 
-## 3.1 Specific Services {#3.1-specific-services}
+## 3.1 Specific Services
 
 To meet the objectives specified in section 2 above, the vendor is expected to perform at least the following specific services:
 
@@ -166,9 +154,9 @@ To meet the objectives specified in section 2 above, the vendor is expected to 
 
 4. Support, Maintenance, and Ongoing Management
 
-## 3.2 Requirements {#3.2-requirements}
+## 3.2 Requirements
 
-### 3.2.1 Overview {#3.2.1-overview}
+### 3.2.1 Overview
 
 The following sections act as detailed reference of the requirements of this Online Brand Protection Platform.
 
@@ -182,7 +170,7 @@ For Vendor response, please fill out:
 
 3. Functionality Not Provided
 
-### 3.2.2 Online Brand Protection Platform Functional Requirements {#3.2.2-online-brand-protection-platform-functional-requirements}
+### 3.2.2 Online Brand Protection Platform Functional Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -249,7 +237,7 @@ For Vendor response, please fill out:
 |  | Please define how ROI (Return on Investment) is calculated for the platform. If applicable, provide a detailed methodology and include, at a minimum: Cost savings (e.g., reduction in legal or enforcement costs) Revenue protection (e.g., prevention of lost sales due to infringement or counterfeiting) Operational efficiency (e.g., reduction in manual monitoring or investigation time) |  |
 |  | Describe how reporting data is shared with the client, including: Report formats (e.g., dashboards, PDFs, CSV, XLSX) Methods of delivery (e.g., in-platform, email, API access) Accessibility and customization options Frequency and scheduling of report updates |  |
 
-### 3.2.3 Online Brand Protection Platform Non Functional Requirements  {#3.2.3-online-brand-protection-platform-non-functional-requirements}
+### 3.2.3 Online Brand Protection Platform Non Functional Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -273,7 +261,7 @@ For Vendor response, please fill out:
 |  | **Backup**: Daily or weekly backups to ensure full system recovery. |  |
 |  | Full system recovery when necessary or as and when requested by \[\*\*ORGANIZATION NAME\] without unnecessary delay. |  |
 
-### 3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding {#3.2.4-online-brand-protection-platform-set-up-a.k.a.-onboarding}
+### 3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -291,7 +279,7 @@ For Vendor response, please fill out:
 |  | Onboarding project plan with timelines and milestones. |  |
 |  | The Online Brand Protection Platform must support multiple languages and specify configuration options per language. Example (date formats, currencies, weekdays) |  |
 
-### 3.2.5 Data Protection Requirements {#3.2.5-data-protection-requirements}
+### 3.2.5 Data Protection Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -300,7 +288,7 @@ For Vendor response, please fill out:
 |  | **Encryption**: All sensitive data must be encrypted in transit and at rest. |  |
 |  | **Access Control**: Role-based access control (RBAC) must be implemented to ensure users only access data necessary for their role. |  |
 
-### 3.2.6 Machine Learning and Artificial Intelligence {#3.2.6-machine-learning-and-artificial-intelligence}
+### 3.2.6 Machine Learning and Artificial Intelligence
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -319,7 +307,7 @@ For Vendor response, please fill out:
 |  | Do you provide dashboards or reports for monitoring AI/ML performance? |  |
 |  | What security measures are in place for handling sensitive training data? |  |
 
-### 3.2.7 Maintenance and Support Requirements {#3.2.7-maintenance-and-support-requirements}
+### 3.2.7 Maintenance and Support Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -337,7 +325,7 @@ For Vendor response, please fill out:
 |  | The vendor must coordinate with law firms, forensic experts, and other third-party providers, managing workflows and ensuring adherence to confidentiality, data protection, and quality standards. |  |
 |  | The vendor should participate in industry associations, conferences, and publications to support brand protection initiatives and share best practices with the broader community. |  |
 
-### 3.2.8 Training and Documentation Requirements {#3.2.8-training-and-documentation-requirements}
+### 3.2.8 Training and Documentation Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
@@ -345,13 +333,13 @@ For Vendor response, please fill out:
 |  | The vendor must provide a training plan with user manuals for administrators to administer the Online Brand Protection Platform. Training manuals must be in English and cover all aspects of managing the site. |  |
 |  | After training, the vendor must provide support as needed through the Maintenance and Support SLA.	 |  |
 
-## 3.3 Deliverables and Timeline {#3.3-deliverables-and-timeline}
+## 3.3 Deliverables and Timeline
 
 The vendor shall carry out the complete delivery and launch of the Online Brand Protection Platform and services within \[\*\*maximum of 30 days\].
 
 Maintenance, support, and support services will commence upon the launch and complete acceptance of the Online Brand Protection Platform.
 
-## 3.4 Logistics and Acceptance {#3.4-logistics-and-acceptance}
+## 3.4 Logistics and Acceptance
 
 1. Input by \[\*\*ORGANIZATION NAME\]
 
@@ -367,9 +355,9 @@ Maintenance, support, and support services will commence upon the launch and com
 
    4. All other work may be performed off-site. 
 
-# 4\. Project Management and Methodology {#4.-project-management-and-methodology}
+# 4\. Project Management and Methodology
 
-## 4.1 Project Management {#4.1-project-management}
+## 4.1 Project Management
 
 The vendor must provide a detailed project plan to respond to this RFP. The plan must be comprehensive enough in scope and detail to convey the vendor’s ability to manage and measure this project as specified in this RFP.
 
@@ -385,25 +373,25 @@ As part of the overall project, the vendor shall establish a project control off
 
 * Setup and provide online centralized space for project communication, collaboration, artifacts, resources, and reporting
 
-## 4.2 Reporting {#4.2-reporting}
+## 4.2 Reporting
 
 * Unless otherwise agreed, the vendor shall submit weekly reports to demonstrate progress and to flag potential issues and risks. 
 
-## 4.3 Methodology {#4.3-methodology}
+## 4.3 Methodology
 
 * Milestone-related deliverables are part of the milestone acceptance and will be delivered by the vendor using appropriate and agreed-upon media.
 
-## 4.4 Acceptance {#4.4-acceptance}
+## 4.4 Acceptance
 
 * \[\*\*ORGANIZATION NAME\] will accept these deliverables as complying with the contract if they were produced in accordance with best industry practice, in accordance with the provisions of this contract, and in accordance with the instructions received from the authorized representative of \[\*\*ORGANIZATION NAME\]. 
 
 * Vendors must specify a deliverables review and acceptance procedure in their proposals.
 
-# 5\. Requirements for vendor and personnel {#5.-requirements-for-vendor-and-personnel}
+# 5\. Requirements for vendor and personnel
 
 * The vendor shall provide case studies and illustrate similar experiences in similar projects, as laid out in Section 7 of the Instructions for Vendor Proposal Preparation and Submission.
 
-## 5.1 Vendor requirements {#5.1-vendor-requirements}
+## 5.1 Vendor requirements
 
 The vendor must
 
@@ -411,7 +399,7 @@ The vendor must
 
 * have expertise within the \[\*\*INDUSTRY\]
 
-## 5.2 Vendor personnel requirements {#5.2-vendor-personnel-requirements}
+## 5.2 Vendor personnel requirements
 
 The key staff of the vendor shall meet or exceed the following requirements:
 
