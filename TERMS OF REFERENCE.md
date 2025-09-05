@@ -149,164 +149,178 @@ For Vendor response, please fill out:
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-| **ONLINE MARKETPLACES** |  |  |
-|  | The Online Brand Protection Platform allows for monitoring and enforcing actions against ecommerce listings across online marketplaces.  If applicable, please specify the number of marketplaces monitored, the regions in which they operate, and their relevance to the Project. |  |
-|  | Indicate the average frequency at which online marketplaces are scraped and indexed within the Online Brand Protection Platform. |  |
-|  | Please indicate the average frequency at which the status of scraped data from online marketplaces is checked to confirm that listings remain active within the Online Brand Protection Platform. |  |
-|  | The Online Brand Protection Platform maintains API access to online marketplaces for purposes of data collection and enforcement.  If applicable, please identify the marketplaces involved and specify the nature of the access provided. |  |
-|  | What is the level of automation employed for infringement detection?  If the degree of automation varies across marketplaces, please specify which marketplaces operate at levels exceeding 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | What is the level of automation applied to notice sending?  If the degree of automation varies across marketplaces, please indicate which marketplaces exceed the thresholds of 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | Please describe the infringement detection processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks, including the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
-|  | Please describe the enforcement processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
-|  | Please indicate the average frequency at which the status of enforced content from online marketplaces is checked. |  |
-| **SOCIAL MEDIA** |  |  |
-|  | The Online Brand Protection Platform allows for monitoring and enforcing actions against social media content.  If applicable, please specify the number of social media monitored, the regions in which they operate, and their relevance to the Project. |  |
-|  | Indicate the average frequency at which social media are scraped and indexed within the Online Brand Protection Platform. |  |
-|  | Please indicate the average frequency at which the status of scraped data from social media is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
-|  | The Online Brand Protection Platform maintains API access to online social media for purposes of data collection and enforcement.  If applicable, please identify the social media involved and specify the nature of the access provided. |  |
-|  | What is the level of automation employed for infringement detection?  If the degree of automation varies across social media, please specify which social media operate at levels exceeding 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | What is the level of automation applied to notice sending?  If the degree of automation varies across social media, please indicate which social media exceed the thresholds of 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | Please describe the infringement detection processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks, including, but not limited, to the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
-|  | Please describe the enforcement processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
-|  | Please indicate the average frequency at which the status of enforced content from social media is checked. |  |
-| **DOMAIN NAMES AND WEBSITES** |  |  |
-|  | The Online Brand Protection Platform enables monitoring and enforcement actions against domain names.  If applicable, please specify the number of TLDs monitored and their relevance to the Project. |  |
-|  | The Online Brand Protection Platform enables monitoring and enforcement actions against website content.  If applicable, please specify the types of content collected  |  |
-|  | If applicable, please specify how the relevant regions are categorized for domain names and website content. |  |
-|  | Indicate the average frequency at which domain names and website content are scraped and indexed within the Online Brand Protection Platform. |  |
-|  | Please indicate the average frequency at which the status of scraped data from domain names and website content is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
-|  | The Online Brand Protection Platform maintains API access to relevant intermediaries for purposes of data collection and enforcement.  If applicable, please identify the intermediary involved and specify the nature of the access provided. |  |
-|  | What is the level of automation employed for infringement detection?  If the degree of automation varies between domain names and website content, please specify which operate at levels exceeding 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | What is the level of automation applied to notice sending? If the degree of automation varies across domain names and website content, please indicate which operate at levels exceeding 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | Please describe the infringement detection processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks, including, but not limited, to the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
-|  | Please describe the enforcement processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
-|  | Please indicate the average frequency at which the status of enforced content from domain names and website content is checked. |  |
-| **MOBILE APP STORES** |  |  |
-|  | The Online Brand Protection Platform allows for monitoring and enforcing actions against mobile app store content. If applicable, please specify the number of mobile app stores monitored, the regions in which they operate, and their relevance to the Project. |  |
-|  | Indicate the average frequency at which mobile app stores are scraped and indexed within the Online Brand Protection Platform. |  |
-|  | Please indicate the average frequency at which the status of scraped data from mobile app stores is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
-|  | The Online Brand Protection Platform maintains API access to online mobile app stores for purposes of data collection and enforcement. If applicable, please identify the mobile app stores involved and specify the nature of the access provided. |  |
-|  | What is the level of automation employed for infringement detection? If the degree of automation varies across mobile app stores, please specify which mobile app stores operate at levels exceeding 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | What is the level of automation applied to notice sending? If the degree of automation varies across mobile app stores, please indicate which mobile app stores exceed the thresholds of 50%, 80%, or 99%. |  |
-|  | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
-|  | Please describe the infringement detection processes that require manual intervention. |  |
-|  | Specify which tools are available within the Online Brand Protection Platform to support these tasks, including, but not limited to, the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
-|  | Please describe the enforcement processes that require manual intervention. |  |
-|  | Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
-|  | Please indicate the average frequency at which the status of enforced content from mobile app stores is checked. |  |
-| **DARK WEB** |  |  |
-|  | The Online Brand Protection Platform enables monitoring and enforcement actions against dark web content.  If applicable, please specify the types of content collected and the enforcement options employed. |  |
-| **CYBERSECURITY** |  |  |
-|  | The Online Brand Protection Platform enables monitoring and enforcement actions against Phishing, Smishing, Online Fraud, Impersonation, Fake Reviews, Data Leaks, Deepfakes, etc.  If applicable, please specify the types of content collected and the enforcement options employed. |  |
-| **REPORTING** |  |  |
-|  | The vendor must provide timely, actionable, and transparent updates on the project.  Please indicate which reporting frequency best suits the project: weekly updates, monthly reports, or quarterly reports, and justify your recommendation. |  |
-|  | The Online Brand Protection Platform must capture relevant KPIs and display progress over time. Progress tracking should be time-aligned to clearly reflect improvements, trends, and areas requiring attention. |  |
-|  | The platform must include interactive dashboards that allow users to filter and analyze data by: Brand or product line Geography Time period Severity of incidents or level of threat The dashboards should provide visual, actionable insights to support decision-making. |  |
-|  | Please define how ROI (Return on Investment) is calculated for the platform. If applicable, provide a detailed methodology and include, at a minimum: Cost savings (e.g., reduction in legal or enforcement costs) Revenue protection (e.g., prevention of lost sales due to infringement or counterfeiting) Operational efficiency (e.g., reduction in manual monitoring or investigation time) |  |
-|  | Describe how reporting data is shared with the client, including: Report formats (e.g., dashboards, PDFs, CSV, XLSX) Methods of delivery (e.g., in-platform, email, API access) Accessibility and customization options Frequency and scheduling of report updates |  |
+|  | **ONLINE MARKETPLACES** |  |
+| 1 | The Online Brand Protection Platform allows for monitoring and enforcing actions against ecommerce listings across online marketplaces.  If applicable, please specify the number of marketplaces monitored, the regions in which they operate, and their relevance to the Project. |  |
+| 2 | Indicate the average frequency at which online marketplaces are scraped and indexed within the Online Brand Protection Platform. |  |
+| 3 | Please indicate the average frequency at which the status of scraped data from online marketplaces is checked to confirm that listings remain active within the Online Brand Protection Platform. |  |
+| 4 | The Online Brand Protection Platform maintains API access to online marketplaces for purposes of data collection and enforcement.  If applicable, please identify the marketplaces involved and specify the nature of the access provided. |  |
+| 5 | What is the level of automation employed for infringement detection?  If the degree of automation varies across marketplaces, please specify which marketplaces operate at levels exceeding 50%, 80%, or 99%. |  |
+| 6 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 7 | What is the level of automation applied to notice sending?  If the degree of automation varies across marketplaces, please indicate which marketplaces exceed the thresholds of 50%, 80%, or 99%. |  |
+| 8 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 9 | Please describe the infringement detection processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks, including the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
+| 10 | Please describe the enforcement processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
+| 11 | Please provide the success rate of takedowns achieved for customers within the same or similar industry as this Project, reported at 30-, 90-, 180-, and 365-day intervals. Indicate whether the takedowns were identical or similar in nature. Additionally, describe the methodology used to measure and track takedown success rates. |  |
+| 12 | Please provide details on unsuccessful complaints, including the most common causes. Indicate whether these were primarily the result of software issues or human error on the Vendor’s side. |  |
+| 13 | Please describe the processes and measures in place to retract complaints and ensure timely and successful retractions with platforms. Specify the average time required to initiate a retraction and the average time for the content to be restored and made visible.. |  |
+|  | **SOCIAL MEDIA** |  |
+| 14 | The Online Brand Protection Platform allows for monitoring and enforcing actions against social media content.  If applicable, please specify the number of social media monitored, the regions in which they operate, and their relevance to the Project. |  |
+| 15 | Indicate the average frequency at which social media are scraped and indexed within the Online Brand Protection Platform. |  |
+| 16 | Please indicate the average frequency at which the status of scraped data from social media is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
+| 17 | The Online Brand Protection Platform maintains API access to online social media for purposes of data collection and enforcement.  If applicable, please identify the social media involved and specify the nature of the access provided. |  |
+| 18 | What is the level of automation employed for infringement detection?  If the degree of automation varies across social media, please specify which social media operate at levels exceeding 50%, 80%, or 99%. |  |
+| 19 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 20 | What is the level of automation applied to notice sending?  If the degree of automation varies across social media, please indicate which social media exceed the thresholds of 50%, 80%, or 99%. |  |
+| 21 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 22 | Please describe the infringement detection processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks, including, but not limited, to the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
+| 23 | Please describe the enforcement processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
+| 24 | Please indicate the average frequency at which the status of enforced content from social media is checked. |  |
+| 25 | Please provide the success rate of takedowns achieved for customers within the same or similar industry as this Project, reported at 30-, 90-, 180-, and 365-day intervals. Indicate whether the takedowns were identical or similar in nature. Additionally, describe the methodology used to measure and track takedown success rates. |  |
+| 26 | Please provide details on unsuccessful complaints, including the most common causes. Indicate whether these were primarily the result of software issues or human error on the Vendor’s side. |  |
+| 27 | Please describe the processes and measures in place to retract complaints and ensure timely and successful retractions with platforms. Specify the average time required to initiate a retraction and the average time for the content to be restored and made visible.. |  |
+|  | **DOMAIN NAMES AND WEBSITES** | |
+| 28 | The Online Brand Protection Platform enables monitoring and enforcement actions against domain names.  If applicable, please specify the number of TLDs monitored and their relevance to the Project. |  |
+| 29| The Online Brand Protection Platform enables monitoring and enforcement actions against website content.  If applicable, please specify the types of content collected  |  |
+| 30 | If applicable, please specify how the relevant regions are categorized for domain names and website content. |  |
+| 31 | Indicate the average frequency at which domain names and website content are scraped and indexed within the Online Brand Protection Platform. |  |
+| 32 | Please indicate the average frequency at which the status of scraped data from domain names and website content is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
+| 33 | The Online Brand Protection Platform maintains API access to relevant intermediaries for purposes of data collection and enforcement.  If applicable, please identify the intermediary involved and specify the nature of the access provided. |  |
+| 34 | What is the level of automation employed for infringement detection?  If the degree of automation varies between domain names and website content, please specify which operate at levels exceeding 50%, 80%, or 99%. |  |
+| 35 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 36 | What is the level of automation applied to notice sending? If the degree of automation varies across domain names and website content, please indicate which operate at levels exceeding 50%, 80%, or 99%. |  |
+| 37 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 38 | Please describe the infringement detection processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks, including, but not limited, to the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
+| 39 | Please describe the enforcement processes that require manual intervention. Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
+| 40 | Please indicate the average frequency at which the status of enforced content from domain names and website content is checked. |  |
+| 41 | Please provide the success rate of takedowns achieved for customers within the same or similar industry as this Project, reported at 30-, 90-, 180-, and 365-day intervals. Indicate whether the takedowns were identical or similar in nature. Additionally, describe the methodology used to measure and track takedown success rates. |  |
+| 42 | Please provide details on unsuccessful complaints, including the most common causes. Indicate whether these were primarily the result of software issues or human error on the Vendor’s side. |  |
+| 43 | Please describe the processes and measures in place to retract complaints and ensure timely and successful retractions with intermediaries. Specify the average time required to initiate a retraction and the average time for the content to be restored and made visible.. |  |
+|  | **MOBILE APP STORES** |  |
+| 44 | The Online Brand Protection Platform allows for monitoring and enforcing actions against mobile app store content. If applicable, please specify the number of mobile app stores monitored, the regions in which they operate, and their relevance to the Project. |  |
+| 45 | Indicate the average frequency at which mobile app stores are scraped and indexed within the Online Brand Protection Platform. |  |
+| 46 | Please indicate the average frequency at which the status of scraped data from mobile app stores is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
+| 47 | The Online Brand Protection Platform maintains API access to online mobile app stores for purposes of data collection and enforcement. If applicable, please identify the mobile app stores involved and specify the nature of the access provided. |  |
+| 48 | What is the level of automation employed for infringement detection? If the degree of automation varies across mobile app stores, please specify which mobile app stores operate at levels exceeding 50%, 80%, or 99%. |  |
+| 49 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 50 | What is the level of automation applied to notice sending? If the degree of automation varies across mobile app stores, please indicate which mobile app stores exceed the thresholds of 50%, 80%, or 99%. |  |
+| 51 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
+| 52 | Please describe the infringement detection processes that require manual intervention. |  |
+| 53 | Specify which tools are available within the Online Brand Protection Platform to support these tasks, including, but not limited to, the relevant data points, filtering options, search functionalities, and clustering capabilities. |  |
+| 54 | Please describe the enforcement processes that require manual intervention. |  |
+| 55 | Specify which tools are available within the Online Brand Protection Platform to support these tasks. |  |
+| 56 | Please indicate the average frequency at which the status of enforced content from mobile app stores is checked. |  |
+| 57 | Please provide the success rate of takedowns achieved for customers within the same or similar industry as this Project, reported at 30-, 90-, 180-, and 365-day intervals. Indicate whether the takedowns were identical or similar in nature. Additionally, describe the methodology used to measure and track takedown success rates. |  |
+| 58 | Please provide details on unsuccessful complaints, including the most common causes. Indicate whether these were primarily the result of software issues or human error on the Vendor’s side. |  |
+| 59 | Please describe the processes and measures in place to retract complaints and ensure timely and successful retractions with platforms. Specify the average time required to initiate a retraction and the average time for the content to be restored and made visible.. |  |
+|  | **DARK WEB** |  |
+| 60 | The Online Brand Protection Platform enables monitoring and enforcement actions against dark web content.  If applicable, please specify the types of content collected and the enforcement options employed. |  |
+| 61 | **CYBERSECURITY** |  |
+| 62 | The Online Brand Protection Platform enables monitoring and enforcement actions against Phishing, Smishing, Online Fraud, Impersonation, Fake Reviews, Data Leaks, Deepfakes, etc.  If applicable, please specify the types of content collected and the enforcement options employed. |  |
+|  | **REPORTING** |  |
+| 63 | The vendor must provide timely, actionable, and transparent updates on the project.  Please indicate which reporting frequency best suits the project: weekly updates, monthly reports, or quarterly reports, and justify your recommendation. |  |
+| 64 | The Online Brand Protection Platform must capture relevant KPIs and display progress over time. Progress tracking should be time-aligned to clearly reflect improvements, trends, and areas requiring attention. |  |
+| 65 | The platform must include interactive dashboards that allow users to filter and analyze data by: Brand or product line Geography Time period Severity of incidents or level of threat The dashboards should provide visual, actionable insights to support decision-making. |  |
+| 66 | Please define how ROI (Return on Investment) is calculated for the platform. If applicable, provide a detailed methodology and include, at a minimum: Cost savings (e.g., reduction in legal or enforcement costs) Revenue protection (e.g., prevention of lost sales due to infringement or counterfeiting) Operational efficiency (e.g., reduction in manual monitoring or investigation time) |  |
+| 67 | Describe how reporting data is shared with the client, including: Report formats (e.g., dashboards, PDFs, CSV, XLSX) Methods of delivery (e.g., in-platform, email, API access) Accessibility and customization options Frequency and scheduling of report updates |  |
 
 ### 3.2.3 Online Brand Protection Platform Non Functional Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-|  | The Online Brand Protection Platform should be implemented using responsive design techniques and allow users to interact with it on desktop and mobile versions (smartphone, tablet).	 |  |
-|  | Fast-loading pages: The Online Brand Protection Platform must be designed with a balance of text and graphics so that the average page loads on the average computer in an acceptable amount of time. |  |
-|  | The Online Brand Protection Platform monitoring is optimized for different platforms (browsers, search engine bots, etc.) and devices: desktop, mobile, tablets, etc. |  |
-|  | The Online Brand Protection Platform must be optimized for performance with minimal page load times. To optimize performance, caching mechanisms must be applied to logged-in and anonymous users. The Online Brand Protection Platform must pass PageSpeed tests. Performance tuning must be applied both server-side and client-side. |  |
-| **SECURITY AND COMPLIANCE** |  |  |
-|  | ISO 27001, SOC 2, GDPR compliance, secure data handling. |  |
-|  | The Online Brand Protection Platform must be tuned for strict security measures, including all prevention mechanisms for OWASP Top 10 list. |  |
-|  | Password and 2FA policies must be applied, and an admin audit trail log must be kept to identify and trace suspicious activity. |  |
-|  | Security monitoring must be provided at all times. |  |
-|  | The Online Brand Protection Platform must be hosted using SSL for logged-in users. |  |
-|  | **Scalability**: The system must be developed and architected using a scalable approach. The platform will be expanded with numerous functional features and new services in the future. |  |
-|  | **Scalability**: Ability to handle global monitoring for X+ SKUs/brands |  |
-|  | **Performance**: Detection latency \<24 hours for new infringements. |  |
-|  | **Usability**: Multi-language UI, mobile accessibility. |  |
-|  | **Maintainability:** 24/7 customer support with SLAs for issue resolution. |  |
-|  | **Interoperability:** The Online Brand Protection Platform must be architected for easy integrations with third-party services through standard REST APIs. |  |
-|  | **Availability**: Service Level Agreement with stated availability of at least 99.95%. |  |
-|  | **Backup**: Daily or weekly backups to ensure full system recovery. |  |
-|  | Full system recovery when necessary or as and when requested by \[\*\*ORGANIZATION NAME\] without unnecessary delay. |  |
+| 68 | The Online Brand Protection Platform should be implemented using responsive design techniques and allow users to interact with it on desktop and mobile versions (smartphone, tablet).	 |  |
+| 69 | Fast-loading pages: The Online Brand Protection Platform must be designed with a balance of text and graphics so that the average page loads on the average computer in an acceptable amount of time. |  |
+| 70 | The Online Brand Protection Platform monitoring is optimized for different platforms (browsers, search engine bots, etc.) and devices: desktop, mobile, tablets, etc. |  |
+| 71 | The Online Brand Protection Platform must be optimized for performance with minimal page load times. To optimize performance, caching mechanisms must be applied to logged-in and anonymous users. The Online Brand Protection Platform must pass PageSpeed tests. Performance tuning must be applied both server-side and client-side. |  |
+| | **SECURITY AND COMPLIANCE**  |  |
+| 72 | ISO 27001, SOC 2, GDPR compliance, secure data handling. |  |
+| 73 | The Online Brand Protection Platform must be tuned for strict security measures, including all prevention mechanisms for OWASP Top 10 list. |  |
+| 74 | Password and 2FA policies must be applied, and an admin audit trail log must be kept to identify and trace suspicious activity. |  |
+| 75 | Security monitoring must be provided at all times. |  |
+| 76 | The Online Brand Protection Platform must be hosted using SSL for logged-in users. |  |
+| 77 | **Scalability**: The system must be developed and architected using a scalable approach. The platform will be expanded with numerous functional features and new services in the future. |  |
+| 78 | **Scalability**: Ability to handle global monitoring for X+ SKUs/brands |  |
+| 79 | **Performance**: Detection latency \<24 hours for new infringements. |  |
+| 80 | **Usability**: Multi-language UI, mobile accessibility. |  |
+| 81 | **Maintainability:** 24/7 customer support with SLAs for issue resolution. |  |
+| 82 | **Interoperability:** The Online Brand Protection Platform must be architected for easy integrations with third-party services through standard REST APIs. |  |
+| 83 | **Availability**: Service Level Agreement with stated availability of at least 99.95%. |  |
+| 84 | **Backup**: Daily or weekly backups to ensure full system recovery. |  |
+| 85 | Full system recovery when necessary or as and when requested by \[\*\*ORGANIZATION NAME\] without unnecessary delay. |  |
 
 ### 3.2.4 Online Brand Protection Platform Set Up a.k.a. Onboarding
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-| **Account & Environment Setup** |  |  |
-|  | Provision user accounts and administrative roles. |  |
-|  | Configure multi-tenant or multi-brand environment (if applicable). |  |
-|  | Enable single sign-on (SSO) or other authentication mechanisms. |  |
+|  | **Account & Environment Setup** |  |
+| 86 | Provision user accounts and administrative roles. |  |
+| 87 | Configure multi-tenant or multi-brand environment (if applicable). |  |
+| 88 | Enable single sign-on (SSO) or other authentication mechanisms. |  |
 |  | **Brand & Asset Configuration** |  |
-|  | Input brand assets, logos, trademarks, and relevant metadata. |  |
-|  | Configure white lists: domains, social media handles and marketplaces sellers. |  |
-|  | Configure black lists: domains, social media handles and marketplaces sellers. |  |
+| 90 | Input brand assets, logos, trademarks, and relevant metadata. |  |
+| 91 | Configure white lists: domains, social media handles and marketplaces sellers. |  |
+| 92 | Configure black lists: domains, social media handles and marketplaces sellers. |  |
 |  | **Integration with Existing Systems** |  |
-|  | Connect to existing CRM, SIEM, or collaboration platforms (Slack, Teams, email). |  |
-|  | API integration and verification for automated workflows. |  |
-|  | Onboarding project plan with timelines and milestones. |  |
-|  | The Online Brand Protection Platform must support multiple languages and specify configuration options per language. Example (date formats, currencies, weekdays) |  |
+| 93 | Connect to existing CRM, SIEM, or collaboration platforms (Slack, Teams, email). |  |
+| 94 | API integration and verification for automated workflows. |  |
+| 95 | Onboarding project plan with timelines and milestones. |  |
+| 96 | The Online Brand Protection Platform must support multiple languages and specify configuration options per language. Example (date formats, currencies, weekdays) |  |
 
 ### 3.2.5 Data Protection Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-|  | Vendors must treat all client information as confidential. |  |
-|  | **Data Protection**: How do you ensure compliance with data protection regulations (GDPR, HIPAA, etc.)? |  |
-|  | **Encryption**: All sensitive data must be encrypted in transit and at rest. |  |
-|  | **Access Control**: Role-based access control (RBAC) must be implemented to ensure users only access data necessary for their role. |  |
+| 97 | Vendors must treat all client information as confidential. |  |
+| 98 | **Data Protection**: How do you ensure compliance with data protection regulations (GDPR, HIPAA, etc.)? |  |
+| 99 | **Encryption**: All sensitive data must be encrypted in transit and at rest. |  |
+| 100 | **Data Security**: Has the Vendor experienced a data breach within the past five (5) years? If yes, please describe the nature and sensitivity of the data involved (e.g., employee PII, customer PII, business data) and outline the corrective measures implemented to prevent recurrence. |  |
+| 101 | **Data Loss**:Has the Vendor experienced any data loss incidents within the past five (5) years? If yes, please describe the type and sensitivity of the data affected (e.g., employee PII, customer PII, business data) and the measures implemented to prevent similar occurrences.
 
 ### 3.2.6 Machine Learning and Artificial Intelligence
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-|  | How do you define AI vs ML in the context of your solution? |  |
-|  | Is your product primarily rule-based AI, machine learning-based, or a hybrid? |  |
-|  | What specific AI/ML techniques do you employ (e.g., supervised learning, reinforcement learning, NLP, deep learning)? |  |
-|  | What data sources are required for your system to perform effectively? |  |
-|  | Does your solution come with pre-trained models, or do they require custom training on our data? |  |
-|  | How do you ensure data quality, bias mitigation, and representativeness in model training? |  |
-|  | Who owns the trained models and the resulting insights — us or you? |  |
-|  | What are the key performance metrics you use (accuracy, precision, recall, F1-score, ROC, etc.)? |  |
-|  | How do you validate and benchmark your models? |  |
-|  | How frequently are models retrained or updated, and is that automated? |  |
-|  | Can your system provide explainable AI outputs (interpretability of decisions, feature importance, audit trails)? |  |
-|  | How do you handle edge cases or failures in AI predictions? |  |
-|  | Do you provide dashboards or reports for monitoring AI/ML performance? |  |
-|  | What security measures are in place for handling sensitive training data? |  |
+| 102 | How do you define AI vs ML in the context of your solution? |  |
+| 103 | Is your product primarily rule-based AI, machine learning-based, or a hybrid? |  |
+| 104 | What specific AI/ML techniques do you employ (e.g., supervised learning, reinforcement learning, NLP, deep learning)? |  |
+| 105 | What data sources are required for your system to perform effectively? |  |
+| 106 | Does your solution come with pre-trained models, or do they require custom training on our data? |  |
+| 107 | How do you ensure data quality, bias mitigation, and representativeness in model training? |  |
+| 108 | Who owns the trained models and the resulting insights — us or you? |  |
+| 109 | What are the key performance metrics you use (accuracy, precision, recall, F1-score, ROC, etc.)? |  |
+| 110 | How do you validate and benchmark your models? |  |
+| 111 | How frequently are models retrained or updated, and is that automated? |  |
+| 112 | Can your system provide explainable AI outputs (interpretability of decisions, feature importance, audit trails)? |  |
+| 113 | How do you handle edge cases or failures in AI predictions? |  |
+| 114 | Do you provide dashboards or reports for monitoring AI/ML performance? |  |
+| 115 | What security measures are in place for handling sensitive training data? |  |
 
 ### 3.2.7 Maintenance and Support Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-|  | **Online Marketplaces Accreditation** Does your team provide support to intellectual property holders in establishing accounts on online marketplaces for the purpose of enforcing intellectual property rights (IPRs)? |  |
+| 116 | **Online Marketplaces Accreditation** Does your team provide support to intellectual property holders in establishing accounts on online marketplaces for the purpose of enforcing intellectual property rights (IPRs)? |  |
 |  | **Support Services** |  |
-|  | The vendor must provide an online ticket management system that is accessible online. The vendor must provide phone support access during working hours. |  |
-|  | Provide Service Level Agreement (SLA) for response times with a maximum of 1 hour for critical issues. |  |
-| **Professional Services** |  |  |
-|  | Brand Protection Analysts should possess experience in online brand protection, intellectual property, or e-commerce compliance. Preferably, they hold intellectual property certifications or a legal degree. |  |
-|  | Senior Brand Protection team members should hold a legal degree and have experience in intellectual property law and/or liability of internet intermediaries. |  |
-|  | The Project requires fluency in the following languages: \[\*\*LAN 1\], \[\*\*LAN 2\], etc.  Additional language skills are considered an advantage; please specify any other proficiencies available. |  |
-|  | The vendor must conduct thorough investigations into suspected brand infringement, counterfeit activity, or other violations, producing evidence suitable for use in legal proceedings. |  |
-|  | The vendor should perform test purchases or verification activities to confirm violations, ensuring all evidence is properly documented and admissible for civil proceedings. |  |
-|  | The vendor must facilitate cooperation with law enforcement authorities, providing evidence and supporting investigations while ensuring compliance with jurisdictional requirements. |  |
-|  | The vendor must coordinate with law firms, forensic experts, and other third-party providers, managing workflows and ensuring adherence to confidentiality, data protection, and quality standards. |  |
-|  | The vendor should participate in industry associations, conferences, and publications to support brand protection initiatives and share best practices with the broader community. |  |
+|117  | The vendor must provide an online ticket management system that is accessible online. The vendor must provide phone support access during working hours. |  |
+| 118 | Provide Service Level Agreement (SLA) for response times with a maximum of 1 hour for critical issues. |  |
+|  | **Professional Services** |  |
+| 119 | Brand Protection Analysts should possess experience in online brand protection, intellectual property, or e-commerce compliance. Preferably, they hold intellectual property certifications or a legal degree. |  |
+| 120 | Senior Brand Protection team members should hold a legal degree and have experience in intellectual property law and/or liability of internet intermediaries. |  |
+| 121 | If the Vendor provides professional services, please indicate the employee turnover rate. Include turnover data for contracted employees if they are expected to work on this Project.. |  |
+| 122 | If contracted employees are anticipated to be utilized for this Project, please provide: (a) the average percentage of contracted employees used in similar past projects, and (b) the projected percentage of contracted employees expected for this Project.. |  |
+| 123 | The Project requires fluency in the following languages: \[\*\*LAN 1\], \[\*\*LAN 2\], etc.  Additional language skills are considered an advantage; please specify any other proficiencies available. |  |
+| 124 | The vendor must conduct thorough investigations into suspected brand infringement, counterfeit activity, or other violations, producing evidence suitable for use in legal proceedings. |  |
+| 125 | The vendor should perform test purchases or verification activities to confirm violations, ensuring all evidence is properly documented and admissible for civil proceedings. |  |
+| 126 | The vendor must facilitate cooperation with law enforcement authorities, providing evidence and supporting investigations while ensuring compliance with jurisdictional requirements. |  |
+| 127 | The vendor must coordinate with law firms, forensic experts, and other third-party providers, managing workflows and ensuring adherence to confidentiality, data protection, and quality standards. |  |
+| 128 | The vendor should participate in industry associations, conferences, and publications to support brand protection initiatives and share best practices with the broader community. |  |
 
 ### 3.2.8 Training and Documentation Requirements
 
 | Requirement Identifier | Requirement | Vendor Compliance / Comments |
 | ----- | ----- | :---: |
-|  | The vendor must provide user training prior to launch to a selected group of non-technical users who will administer the Online Brand Protection Platform as part of a “train-the-trainer approach”.  Such training should aim to allow those users to administer the system with minimal involvement from the vendor.	 |  |
-|  | The vendor must provide a training plan with user manuals for administrators to administer the Online Brand Protection Platform. Training manuals must be in English and cover all aspects of managing the site. |  |
-|  | After training, the vendor must provide support as needed through the Maintenance and Support SLA.	 |  |
+| 129 | The vendor must provide user training prior to launch to a selected group of non-technical users who will administer the Online Brand Protection Platform as part of a “train-the-trainer approach”.  Such training should aim to allow those users to administer the system with minimal involvement from the vendor.	 |  |
+| 130 | The vendor must provide a training plan with user manuals for administrators to administer the Online Brand Protection Platform. Training manuals must be in English and cover all aspects of managing the site. |  |
+| 131 | After training, the vendor must provide support as needed through the Maintenance and Support SLA.	 |  |
 
 ## 3.3 Deliverables and Timeline
 
