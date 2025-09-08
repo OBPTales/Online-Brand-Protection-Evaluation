@@ -151,7 +151,7 @@ For Vendor response, please fill out:
 | ----- | ----- | :---: |
 |  | **ONLINE MARKETPLACES** |  |
 | 1 | The Online Brand Protection Platform allows for monitoring and enforcing actions against ecommerce listings across online marketplaces.  If applicable, please specify the number of marketplaces monitored, the regions in which they operate, and their relevance to the Project. |  |
-| 2 | Indicate the average frequency at which online marketplaces are scraped and indexed within the Online Brand Protection Platform. |  |
+| 2 | Indicate the average frequency at which online marketplaces are scraped and indexed within the Online Brand Protection Platform, and confirm whether a browser extension or other tool exists that enables \[\*\*ORGANIZATION NAME\] to report content directly to the vendor outside of the platform. |  |
 | 3 | Please indicate the average frequency at which the status of scraped data from online marketplaces is checked to confirm that listings remain active within the Online Brand Protection Platform. |  |
 | 4 | The Online Brand Protection Platform maintains API access to online marketplaces for purposes of data collection and enforcement.  If applicable, please identify the marketplaces involved and specify the nature of the access provided. |  |
 | 5 | What is the level of automation employed for infringement detection?  If the degree of automation varies across marketplaces, please specify which marketplaces operate at levels exceeding 50%, 80%, or 99%. |  |
@@ -165,7 +165,7 @@ For Vendor response, please fill out:
 | 13 | Please describe the processes and measures in place to retract complaints and ensure timely and successful retractions with platforms. Specify the average time required to initiate a retraction and the average time for the content to be restored and made visible.. |  |
 |  | **SOCIAL MEDIA** |  |
 | 14 | The Online Brand Protection Platform allows for monitoring and enforcing actions against social media content.  If applicable, please specify the number of social media monitored, the regions in which they operate, and their relevance to the Project. |  |
-| 15 | Indicate the average frequency at which social media are scraped and indexed within the Online Brand Protection Platform. |  |
+| 15 | Indicate the average frequency at which social media are scraped and indexed within the Online Brand Protection Platform, and confirm whether a browser extension or other tool exists that enables \[\*\*ORGANIZATION NAME\] to report content directly to the vendor outside of the platform.|  |
 | 16 | Please indicate the average frequency at which the status of scraped data from social media is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
 | 17 | The Online Brand Protection Platform maintains API access to online social media for purposes of data collection and enforcement.  If applicable, please identify the social media involved and specify the nature of the access provided. |  |
 | 18 | What is the level of automation employed for infringement detection?  If the degree of automation varies across social media, please specify which social media operate at levels exceeding 50%, 80%, or 99%. |  |
@@ -182,7 +182,7 @@ For Vendor response, please fill out:
 | 28 | The Online Brand Protection Platform enables monitoring and enforcement actions against domain names.  If applicable, please specify the number of TLDs monitored and their relevance to the Project. |  |
 | 29| The Online Brand Protection Platform enables monitoring and enforcement actions against website content.  If applicable, please specify the types of content collected  |  |
 | 30 | If applicable, please specify how the relevant regions are categorized for domain names and website content. |  |
-| 31 | Indicate the average frequency at which domain names and website content are scraped and indexed within the Online Brand Protection Platform. |  |
+| 31 | Indicate the average frequency at which domain names and website content are scraped within the Online Brand Protection Platform, and confirm whether a browser extension or other tool exists that enables \[\*\*ORGANIZATION NAME\] to report content directly to the vendor outside of the platform. |  |
 | 32 | Please indicate the average frequency at which the status of scraped data from domain names and website content is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
 | 33 | The Online Brand Protection Platform maintains API access to relevant intermediaries for purposes of data collection and enforcement.  If applicable, please identify the intermediary involved and specify the nature of the access provided. |  |
 | 34 | What is the level of automation employed for infringement detection?  If the degree of automation varies between domain names and website content, please specify which operate at levels exceeding 50%, 80%, or 99%. |  |
@@ -198,7 +198,7 @@ For Vendor response, please fill out:
 |  | **MOBILE APP STORES** |  |
 | 44 | The Online Brand Protection Platform allows for monitoring and enforcing actions against mobile app store content. If applicable, please specify the number of mobile app stores monitored, the regions in which they operate, and their relevance to the Project. |  |
 | 45 | Indicate the average frequency at which mobile app stores are scraped and indexed within the Online Brand Protection Platform. |  |
-| 46 | Please indicate the average frequency at which the status of scraped data from mobile app stores is checked to confirm that content remains active within the Online Brand Protection Platform. |  |
+| 46 | Please indicate the average frequency at which the status of scraped data from mobile app stores is checked to confirm that content remains active within the Online Brand Protection Platform, and confirm whether a browser extension or other tool exists that enables \[\*\*ORGANIZATION NAME\] to report content directly to the vendor outside of the platform. |  |
 | 47 | The Online Brand Protection Platform maintains API access to online mobile app stores for purposes of data collection and enforcement. If applicable, please identify the mobile app stores involved and specify the nature of the access provided. |  |
 | 48 | What is the level of automation employed for infringement detection? If the degree of automation varies across mobile app stores, please specify which mobile app stores operate at levels exceeding 50%, 80%, or 99%. |  |
 | 49 | If the level of automation is below 50%, can it be expanded? Please provide details and, where applicable, a roadmap outlining the steps and timeline for such an extension. |  |
@@ -306,7 +306,7 @@ For Vendor response, please fill out:
 | 119 | Brand Protection Analysts should possess experience in online brand protection, intellectual property, or e-commerce compliance. Preferably, they hold intellectual property certifications or a legal degree. |  |
 | 120 | Senior Brand Protection team members should hold a legal degree and have experience in intellectual property law and/or liability of internet intermediaries. |  |
 | 121 | If the Vendor provides professional services, please indicate the employee turnover rate. Include turnover data for contracted employees if they are expected to work on this Project.. |  |
-| 122 | If contracted employees are anticipated to be utilized for this Project, please provide: (a) the average percentage of contracted employees used in similar past projects, and (b) the projected percentage of contracted employees expected for this Project.. |  |
+| 122 | If contracted employees are anticipated to be utilized for this Project, please provide: (a) the average percentage of contracted employees used in similar past projects, (b) the projected percentage of contracted employees expected for this Project,and (c) their the geographic locations/time zones. |  |
 | 123 | The Project requires fluency in the following languages: \[\*\*LAN 1\], \[\*\*LAN 2\], etc.  Additional language skills are considered an advantage; please specify any other proficiencies available. |  |
 | 124 | The vendor must conduct thorough investigations into suspected brand infringement, counterfeit activity, or other violations, producing evidence suitable for use in legal proceedings. |  |
 | 125 | The vendor should perform test purchases or verification activities to confirm violations, ensuring all evidence is properly documented and admissible for civil proceedings. |  |
